@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Product Listing</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Realme P3x 5G Mobiles</h1>
+  
+  <div class="product-list">
+    <div class="product-card">
+      <img src="midnight-blue.jpg" alt="Realme P3x Midnight Blue">
+      <h2>realme P3x 5G (Midnight Blue, 128 GB)</h2>
+      <p>6 GB RAM | 128 GB ROM</p>
+      <p>₹13,999 <span class="old-price">₹16,999</span> <span class="discount">17% off</span></p>
+      <p>6000 mAh | 50MP + 8MP Camera</p>
+    </div>
+
+    <div class="product-card">
+      <img src="stellar-pink.jpg" alt="Realme P3x Stellar Pink">
+      <h2>realme P3x 5G (Stellar Pink, 128 GB)</h2>
+      <p>6 GB RAM | 128 GB ROM</p>
+      <p>₹13,999 <span class="old-price">₹16,999</span> <span class="discount">17% off</span></p>
+      <p>6000 mAh | 50MP + 8MP Camera</p>
+    </div>
+  </div>
+</body>
+</html>
